@@ -1,0 +1,5 @@
+0: This should be the root node
+0.0: This should be one of the options
+0.1: This should be another one
+0.3: this should be the third one
+0.0.1: this should be an option under 0.0
