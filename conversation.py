@@ -23,6 +23,7 @@ class Conversation:
             for line in self.current_node.options:
                 print(f"{line.val[-1]} : {line.text}")
                 print("\n")
+            self.listen_for_input()
             
     
     def listen_for_input(self):
