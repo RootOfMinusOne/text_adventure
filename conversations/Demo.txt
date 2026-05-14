@@ -6,5 +6,5 @@
 0.1.0: Okay, the build makes a text file into a tree, wich is a kind of graph. Because the developer is kinda new, there is no way for 2 different paths to converge, so you could end up with some duplicate data, but I guess that's life.
 0.1.0.0: That makes sense, because it's stored in a tree.
 0.1.0.1: So by saying this I'm greatly making your job more difficult, as there will be more duplicate data?
-0.1.0.1.0: The processing part isn't built yet, but it will probably just really restrict the types of input that are processed. Anyway, I like building sistems more than writing dialongue it seems, as I'm tired of this already. We are done here. 
+0.1.0.0.0: The processing part isn't built yet, but it will probably just really restrict the types of input that are processed. Anyway, I like building sistems more than writing dialongue it seems, as I'm tired of this already. We are done here. 
 0.1.0.1.0: I hate you a little, but it's fine. Then there is the whole processing input management thing, but this demo is being generated befor it's built, so I don't really know how it works. Actually, for a demo this is pretty good, so we are done here.
